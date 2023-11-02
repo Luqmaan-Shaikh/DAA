@@ -88,9 +88,9 @@ void lcsAlgo() {
 }
 
 int main() {
-  clrscr();                                                                                                       clrscr();
+  clrscr();                                                                                                    
   lcsAlgo();
-  printf("Time Complexity :- %d",counter);                                                          getch();
+  printf("Time Complexity :- %d",counter);                                                       
   getch();
   return 0;
 }
